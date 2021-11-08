@@ -1,0 +1,29 @@
+body {
+    background-color: #013220 ;
+    color: #eee;
+    max-width: 100%;
+  height: auto;
+       }
+    
+
+  main {
+    margin: auto;
+width: 50%;
+font-size: 30px;
+  }
+
+a {
+color: #eee;
+position: absolute;
+  bottom: 0px;
+  right: 50px;
+  height: 35px;
+  margin: 0px 50px 0px 0p;
+  text-align: right;
+  padding: 10px 30px;
+}
+
+input {
+  font-size: 20px;
+}
+  
